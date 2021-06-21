@@ -1,4 +1,4 @@
-public class Leson05 {
+public class Employee {
     public String name;
     public String post;
     public String email;
@@ -10,7 +10,7 @@ public class Leson05 {
         return age;
     }
 
-    public Leson05 (String name, String post, String email, String phoneNumber, int salary, int age) {
+    public Employee(String name, String post, String email, String phoneNumber, int salary, int age) {
     this.name = name;
     this.post = post;
     this.email = email;
