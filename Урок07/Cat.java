@@ -1,4 +1,4 @@
-class Meal {
+class Cat {
     private String name;
     private int appetite;
     private boolean hungry;
